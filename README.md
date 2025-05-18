@@ -4,7 +4,7 @@
 
 This project is a **Spring Boot 3.3.x RESTful API** designed to manage **Customers** and **Products**. It provides full CRUD (Create, Read, Update, Delete) operations, proper exception handling, Swagger integration for API documentation, and logback-based logging.
 
-The application is built using **Java 17+**, follows Spring MVC architecture, and is structured for scalability and maintainability.
+The application is built using **Java 21**, follows Spring MVC architecture, and is structured for scalability and maintainability.
 
 ---
 
