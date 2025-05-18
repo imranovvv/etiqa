@@ -21,6 +21,12 @@ The application is built using **Java 21**, follows Spring MVC architecture, and
 - Modular folder structure (`controller`, `service`, `repository`, `dto`, `entity`, `mapper`, `exception`)
 - SQL-based DB support (H2 Embedded Database) at http://localhost:8080/h2-console/
 
+  **H2 Database Configuration:**
+  ```properties
+  spring.datasource.url=jdbc:h2:mem:testdb
+  spring.datasource.username=etiqa
+  spring.datasource.password=
+
 ---
 
 
